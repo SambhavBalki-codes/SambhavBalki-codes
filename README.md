@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋, I'm Sambhav
 
-<!--
-**SambhavBalki-codes/SambhavBalki-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **B.Tech CSE student at NIT Raipur** with a **CPI of 9.08**, interested in **Machine Learning, Generative AI, and building production-grade AI systems**.
 
-Here are some ideas to get you started:
+- 🧠 Interested in **Machine Learning, Probability & Statistics**
+- 🤖 Exploring **Generative AI, Agentic AI & RAG**
+- ⚙️ Interested in **production-grade AI pipelines**
+- 📊 Exploring **LLM evaluation & observability**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sambhav-balki-b95528304/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/SambhavBalki/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/balkisambhav665)
+
+![Profile Views](https://komarev.com/ghpvc/?username=SambhavBalki-codes&label=Profile%20Views&style=flat)
