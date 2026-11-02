@@ -1,15 +1,15 @@
+ 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1F8ACB&height=200&section=header&text=Hi%20There,%20I'm%20Sambhav%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1F8ACB&height=180&section=header&text=Hi%20There,%20I'm%20Sambhav%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=650&lines=B.Tech+CSE+Student+%40+NIT+Raipur+(CPI%3A+9.08)" />
-</a>
+  <h3>B.Tech CSE Student | NIT Raipur</h3>
+  <p>Currently exploring software development and problem solving.</p>
 </div>
 
-- 🧠 Interested in **Machine Learning, Probability & Statistics**
-- 🤖 Exploring **Generative AI, Agentic AI & RAG**
-- ⚙️ Interested in **production-grade AI pipelines**
-- 📊 Exploring **LLM evaluation & observability**
+- 🎓 B.Tech Computer Science & Engineering student at **NIT Raipur**
+- 💻 Interested in **Software Development and Data Structures & Algorithms**
+- 🧩 Practicing problem solving through competitive programming
+- 🚀 Learning new technologies and building projects
 
 ### Connect with me
 
